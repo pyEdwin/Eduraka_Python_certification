@@ -1,7 +1,7 @@
 # Eduraka_Python_certification
 
 # Assignment I
-1.Write a program to find the factors of agiven number and check whether the factor is even or odd. 
+1.Write a program to find the factors of a given number and check whether the factor is even or odd. 
 Hint: Use Loop with if-else statements
 
 
