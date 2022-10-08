@@ -21,7 +21,7 @@ Hint: Use Loop with if-else statements
 
 5.Design a code which will find whether the given number is Palindrome number or not.
 
- Assignment II
+ # Assignment II
  
  
 1.Smith wishesto register ona ticket booking website for booking bus tickets. Toauthenticate theregistration, he needs to provide a user-id and password. There are some built-in rules for checking the validity of the passwords entered by the users.Following are therulesfor checkingthe validity of a password:
