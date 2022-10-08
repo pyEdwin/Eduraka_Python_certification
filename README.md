@@ -125,3 +125,33 @@ You can try these enhancements in code.
 1.Allow alphabets and some special characters in Unique ID
 
 2.Providethe option for decryption to the user.
+
+ # Assignment III
+ 
+ 1.
+ Create a dog object that will inherit all the variables and methods of the parent class Animal
+and display it.
+
+2.
+Demonstrate the working of Polymorphism by creating two classes -Car and Bike.
+Display the information like name, color, and number of wheels.
+
+3.
+Create a list of tuples containing the 5 planets of our solar system along with their moons as-earth
+having 1 moon, Jupiter having 79 moons, Saturn having 82 moons, Uranus having 27 moons and Neptune
+having 14 moons.Sort the list according to the ascending number of moons along with the names of
+planet using Lambda function. Display both original and sorted list.
+
+4.
+Create two functions -fillup and use, which uses a global variable as tank. Use the global variable in
+both the functions to return the quantity of fuel present in the tank after filling up the tank and
+after using the fuel of the tank. Show the working of two functions only. It is not necessary to
+display the outputs.
+
+5.
+Write a program to depict the use of multiple inheritance. The program should contain 4 classes -class
+4 should inherit from class 2 and class 3. Similarly, class 2 should inherit from class 1. Class 3
+should inherit from class 1. Each class should have its own print statement
+6.
+Use Getter and Setter method to set the name and age of a person. Moreover, get the name and age of
+the same person.
